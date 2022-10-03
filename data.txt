@@ -4,4 +4,7 @@ $ git add <file-name>
 $ git add .
 $ git commit -m"<commit-message>"
 $ git log
+# to add all the changes that are made in the repo
+
+$ git push origin master
 
