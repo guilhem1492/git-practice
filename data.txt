@@ -6,6 +6,7 @@ $ git commit -m"<commit-message>"
 $ git log
 # to add all the changes that are made in the repo
 
+$ git remote add origin https://github.com/your-github-username/git-practice.git
 $ git push origin master
 $ git pull origin master
 
