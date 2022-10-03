@@ -7,4 +7,5 @@ $ git log
 # to add all the changes that are made in the repo
 
 $ git push origin master
+$ git pull origin master
 
