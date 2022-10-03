@@ -1,3 +1,7 @@
-Name: Guilhem
-Age: 39
-Favorite Color: Blue
+$ git init
+$ git status
+$ git add <file-name>
+$ git add .
+$ git commit -m"<commit-message>"
+$ git log
+
